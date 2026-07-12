@@ -15,7 +15,7 @@ Metasploitable 2 is a deliberately vulnerable Linux virtual machine designed for
 
 - To understand the exploitation process and strengthen practical cybersecurity skills through hands-on analysis.
 
-## Labsetup Tools
+## Lab Setup & Tools
 
 - Virtualization Platform: Oracle VirtualBox
 
